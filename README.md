@@ -6,7 +6,7 @@ Collapse OS is a Forth operating system and a collection of tools and
 documentation with a single purpose: preserve the ability to program micro-
 controllers through civilizational collapse.
 
-It it designed to:
+It is designed to:
 
 1. Run on minimal and improvised machines.
 2. Interface through improvised means (serial, keyboard, display).
